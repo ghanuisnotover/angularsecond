@@ -1,0 +1,33 @@
+.mid{
+    background-color: rgb(135, 158, 80);
+    height:800px;
+    
+}
+.qty{
+    background-color: aliceblue;
+    height: 40px;
+    width: 300px;
+    margin-top: 20px;
+    
+
+    
+    
+}
+.main{
+    height: 800px;
+    width: 400px;
+    
+    float: right;
+    padding-top: 20%;
+
+    
+    
+    
+    
+}
+.heading{
+    height: 800px;
+    width: 400px;
+    
+    
+}

@@ -1,0 +1,23 @@
+.btn {
+  height: 40px;
+  width: 10%;
+  color: black ;
+  float: left;
+  font-size: 25px;
+  
+  text-decoration: none;
+  border-radius: 50px;
+  background-color: pink;
+  text-align: center;
+  margin: 10px;
+  
+  
+}
+.btn:hover{
+    color:red;
+}
+.head {
+  background-color: yellowgreen;
+  height: 100px;
+  width: 100%;
+}
